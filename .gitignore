@@ -1,0 +1,4 @@
+__pycache__/
+
+Backend/data/IMDB Dataset SPANISH.csv
+Backend/data/reviews_limpio.csv
